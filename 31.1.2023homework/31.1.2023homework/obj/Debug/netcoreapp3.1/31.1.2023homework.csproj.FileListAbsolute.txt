@@ -1,0 +1,14 @@
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\bin\Debug\netcoreapp3.1\31.1.2023homework.exe
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\bin\Debug\netcoreapp3.1\31.1.2023homework.deps.json
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\bin\Debug\netcoreapp3.1\31.1.2023homework.runtimeconfig.json
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\bin\Debug\netcoreapp3.1\31.1.2023homework.runtimeconfig.dev.json
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\bin\Debug\netcoreapp3.1\31.1.2023homework.dll
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\bin\Debug\netcoreapp3.1\31.1.2023homework.pdb
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\obj\Debug\netcoreapp3.1\31.1.2023homework.csproj.AssemblyReference.cache
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\obj\Debug\netcoreapp3.1\31.1.2023homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\obj\Debug\netcoreapp3.1\31.1.2023homework.AssemblyInfoInputs.cache
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\obj\Debug\netcoreapp3.1\31.1.2023homework.AssemblyInfo.cs
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\obj\Debug\netcoreapp3.1\31.1.2023homework.csproj.CoreCompileInputs.cache
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\obj\Debug\netcoreapp3.1\31.1.2023homework.dll
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\obj\Debug\netcoreapp3.1\31.1.2023homework.pdb
+C:\Users\dilar\Desktop\vs2023\31.1.2023homework\31.1.2023homework\obj\Debug\netcoreapp3.1\31.1.2023homework.genruntimeconfig.cache
